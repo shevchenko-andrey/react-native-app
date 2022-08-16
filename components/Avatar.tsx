@@ -19,13 +19,13 @@ export default function Avatar() {
 
 const styles = StyleSheet.create({
   tumb: {
-    position: "absolute",
+    position: "relative",
     backgroundColor: "#f6f6f6",
     borderRadius: 16,
     width: 120,
     height: 120,
     zIndex: 1,
-    top: 190,
+    top: 60,
   },
   avatar: {
     overflow: "hidden",
