@@ -10,6 +10,7 @@ export default function NavLink({ title }: Props) {
 const styles = StyleSheet.create({
   link: {
     marginTop: 16,
+    fontFamily: "Roboto",
     fontSize: 16,
     color: "#1B4371",
   },
